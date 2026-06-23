@@ -4,8 +4,6 @@ const nextConfig = {
   basePath: '/movies-website-cuc',
   assetPrefix: '/movies-website-cuc/',
   trailingSlash: true,
-  images: {
-    unoptimized: true
-  }
+  images: { unoptimized: true }
 }
 module.exports = nextConfig
