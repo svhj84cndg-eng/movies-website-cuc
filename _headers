@@ -1,3 +1,2 @@
-# 仅对网站所有线上页面开启HTTPS强制升级
 /*
   Content-Security-Policy: upgrade-insecure-requests
